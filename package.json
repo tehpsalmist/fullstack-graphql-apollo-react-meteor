@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-graphql-apollo-react-meteor",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PLLnpHn493BHFTDL9M1PKnxQwBwOZ8J-h4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehpsalmist/fullstack-graphql-apollo-react-meteor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehpsalmist/fullstack-graphql-apollo-react-meteor/issues"
+  },
+  "homepage": "https://github.com/tehpsalmist/fullstack-graphql-apollo-react-meteor#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.1.0",
+    "standard": "^11.0.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
